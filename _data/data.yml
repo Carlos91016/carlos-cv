@@ -115,7 +115,7 @@ experiences:
       time: 2020 - Present
       company: The University of Oklahoma
       details: |
-        In my role as a TA, each semester I am assigned to either teach a class 
+        Each semester I am assigned to either teach a class 
         as an instructor of record, or assisst a professor in one of their courses 
         either as a grader or leader of a discussion (problem) session.
           - Instructor of record for MATH 1643 (Functions and Modeling).
@@ -130,7 +130,8 @@ experiences:
       time: 2022 - Present
       company: Oklahoma City Community College
       details: |
-          - Instructor for MATH-1613 (Trigonometry)
+          - Teaching: 
+                - MATH-1613: Trigonometry (Spring 2022)
     - role: Summer Researcher - Team Leader
       time: 2018
       company: San Diego State University
