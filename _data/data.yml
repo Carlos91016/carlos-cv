@@ -103,7 +103,7 @@ education:
 experiences:
     - role: Graduate Teaching Assistant (TA)
       time: 2020 - Present
-      company: The University of Oklahoma, Norman
+      company: The University of Oklahoma
       details: |
         In my role as a TA, each semester I am assigned to either teach a class 
         as an instructor of record, or assisst a professor in one of their courses 
@@ -118,12 +118,12 @@ experiences:
             algebra to linear algebra and differential equations.
     - role: Adjunct Professor of Mathematics
       time: 2022 - Present
-      company: Oklahoma City Community College, OKC
+      company: Oklahoma City Community College
       details: |
           - Instructor for MATH-1613 (Trigonometry)
     - role: Summer Researcher - Team Leader
       time: 2018
-      company: San Diego State University, San Diego
+      company: San Diego State University
       details: |
         Led a team of five undergraduate students develop mathematical models that
         link within-host and between-host HIV dynamics. We did so by measuring the 
