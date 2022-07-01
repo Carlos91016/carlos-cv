@@ -48,7 +48,17 @@ sidebar:
 
       - item: MATLAB
         link:
-
+        
+      - item: Data cleaning
+        #link:
+        
+      - item: Data visualization
+        #link:
+        
+      - item: Web scraping
+        #link:
+        
+        
 career-profile:
     title: Career Profile
     summary: |
