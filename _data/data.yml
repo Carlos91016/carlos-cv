@@ -102,18 +102,12 @@ education:
           - Bullet point
 experiences:
     - role: Graduate Teaching Assistant (TA)
-      time: 2018 - Present
-      company: The University of Oklahoma, Norman, OK
+      time: 2020 - Present
+      company: The University of Oklahoma, Norman
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        In my role as a TA, each semester I am assigned to either teach a class 
+        as an instructor of record, or assisst a professor in one of their courses 
+        either as a grader or leader of a discussion (problem) session.
           - Instructor of record for MATH 1643 (Functions and Modeling).
           - Teaching assistant for MATH 1843 (Calculus I) where I lead
             weekly problem-solving lectures designed to help students
@@ -122,34 +116,36 @@ experiences:
           - Grader for MATH 4163 (Intro to Partial Differential Equations).
           - Tutor students at the Math Center in subjects ranging from college.
             algebra to linear algebra and differential equations.
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Adjunct Professor of Mathematics
+      time: 2022 - Present
+      company: Oklahoma City Community College, OKC
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Instructor for MATH-1613 (Trigonometry)
+    - role: Summer Researcher - Team Leader
+      time: 2018
+      company: San Diego State University, San Diego
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Led a team of five undergraduate students develop mathematical models that
+        link within-host and between-host HIV dynamics. We did so by measuring the 
+        effects HIV-specific antibodies have on viral load, and how they affect the
+        probability of HIV transmission. 
+          - Developed SIR models for HIV transmission
+          - Programmed our models into MATLAB to obtain numerical results and create
+            data visualizations.
+          - Summarized our results in a published paper.
+    - role: Math Tutor
+    - time: 2015-2018
+    - company: Oklahoma City Community College
+    - details: |
+          - Strengthened students' comprehension of STEM related coursework.
+          - Assisted students with course-related technology.
+     
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      During my studies as a graduate student I became interested in data science and machine learning. These are some
+      projects I have completed while teaching myself these skills. Additionally, there are also some projects from a 
+      statistics class I took. 
     assignments:
       - title: Velocity
         link: "#hook"
