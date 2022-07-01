@@ -189,26 +189,26 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
+#skills:
+    #title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python
+    #toolset:
+      #- name: Python
         #level: 98%
 
-      - name: R
+      #- name: R
         #level: 98%
 
-      - name: MATLAB
+      #- name: MATLAB
         #level: 98%
 
-      - name: Data cleaning
+      #- name: Data cleaning
         #level: 95%
 
-      - name: Data Visualization
+      #- name: Data Visualization
         #level: 85%
 
-      - name: Web scraping
+      #- name: Web scraping
         #level: 60%
 
 footer: >
