@@ -39,15 +39,15 @@ sidebar:
       - idiom: French
         level: Begginer - Reading
 
-    #interests:
-      #- item: Climbing
-      #  link:
+    skills:  #interests
+      - item: Python
+        link:
 
-      #- item: Snowboarding
-      #  link:
+      - item: R
+        link:
 
-      #- item: Cooking
-      #  link:
+      - item: MATLAB
+        link:
 
 career-profile:
     title: Career Profile
