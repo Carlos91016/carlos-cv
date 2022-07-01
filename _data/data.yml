@@ -52,12 +52,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a PhD student in the mathematics department at the University of Oklahoma.
+      My current research is in dynamical systems, specifically mathematical billiards.
+      I am also interested in mathematical modeling, data science, and probability/statistics.
 education:
     - degree: PhD in Mathematics
       university: The University of Oklahoma
@@ -104,9 +101,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Graduate Teaching Assistant (TA)
+      time: 2018 - Present
+      company: The University of Oklahoma, Norman, OK
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -117,8 +114,14 @@ experiences:
         error sit voluptatem accusantium doloremque laudantium, totam rem
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+          - Instructor of record for MATH 1643 (Functions and Modeling).
+          - Teaching assistant for MATH 1843 (Calculus I) where I lead
+            weekly problem-solving lectures designed to help students
+            master the material presented in class.
+          - Grader for MATH 3333 (Linear Algebra).
+          - Grader for MATH 4163 (Intro to Partial Differential Equations).
+          - Tutor students at the Math Center in subjects ranging from college.
+            algebra to linear algebra and differential equations.
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
